@@ -1,0 +1,17 @@
+.cursor{
+    cursor: pointer;
+}
+
+.novapost{
+    border-color: rgb(82, 220, 255) !important;
+    background-color: rgb(159, 221, 247) !important;
+}
+
+.botaomodal{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/983/983952.png);
+    background-repeat: no-repeat;
+    width: 7vh;
+    min-height: 7vh;
+    background-size: contain;
+    background-position: center;
+}
