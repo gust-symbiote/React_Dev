@@ -37,7 +37,6 @@ function CadastroPost() {
     const [tema, setTema] = useState<Tema>(
         {
             id: 0,
-            assunto: '',
             descricao: ''
         })
     const [postagem, setPostagem] = useState<Postagem>({
@@ -150,7 +149,7 @@ function CadastroPost() {
                         })}>
                         {
                             temas.map(tema => (
-                                <MenuItem value={tema.id}>{tema.assunto}</MenuItem>
+                                <MenuItem value={tema.id}>{tema.descricao}</MenuItem>
                             ))
                         }
                     </Select>
