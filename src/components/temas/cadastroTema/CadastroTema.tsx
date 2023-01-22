@@ -18,6 +18,7 @@ function CadastroTema() {
       );
     const [tema, setTema] = useState<Tema>({
         id: 0,
+        assunto: '',
         descricao: ''
     })
 
@@ -113,6 +114,7 @@ function CadastroTema() {
             <form onSubmit={onSubmit}  className='formcadastro'>
 
                 <Typography variant="h3" className='fontecadtema' component="h1" align="center">Cadastro de Tema</Typography>
+                <TextField className='cortemacaixa' value={tema.assunto} onChange={(e: ChangeEvent<HTMLInputElement>) => updatedTema(e)} id="assunto" label="Tema" name="assunto" margin="normal" fullWidth />
                 <TextField className='cortemacaixa' value={tema.descricao} onChange={(e: ChangeEvent<HTMLInputElement>) => updatedTema(e)} id="descricao" label="Descrição" name="descricao" margin="normal" fullWidth />
                 
                 <Button type="submit" variant="contained" className='botaocadtema'>

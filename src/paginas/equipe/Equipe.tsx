@@ -18,7 +18,7 @@ function Equipe() {
                 <li className='fontequipe tipofonteq'>Ana Carolina</li>
                 <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank" rel="noopener noreferrer">
                     <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-                        data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt='' />
+                        data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt=''/>
                 </a>
 
                 <a href="https://github.com/anacahrowl" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@ function Equipe() {
 
                 <a href="https://github.com/lucascampos99" target="_blank" rel="noopener noreferrer">
                     <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-                        data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=''/>
+                        data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
                 </a>
                
                     <img src="https://cdn.discordapp.com/attachments/1048221568901320804/1048242964377374731/foto-kaio.png" 
@@ -79,7 +79,7 @@ function Equipe() {
 
                 <a href="https://github.com/kaiolima77" target="_blank" rel="noopener noreferrer">
                     <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-                        data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt=''/>
+                        data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
                 </a>
                
                     <img src="https://avatars.githubusercontent.com/u/112710477?v=4" 
