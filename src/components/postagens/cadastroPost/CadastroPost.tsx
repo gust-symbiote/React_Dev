@@ -50,8 +50,7 @@ function CadastroPost() {
             nome: '',
             usuario: '',
             senha: '',
-            foto: '',
-            postagem: null
+            foto: ''
         })
     
     const [postagem, setPostagem] = useState<Postagem>({
