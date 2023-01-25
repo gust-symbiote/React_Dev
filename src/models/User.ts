@@ -6,6 +6,7 @@ interface User {
     usuario: string;
     senha: string;
     foto: string
+    postagem?: Postagem| null
 }
 
 export default User;
