@@ -61,7 +61,7 @@ function ListaUsuario() {
   }, [token]);
 
   async function getPost() {
-    await busca('/usuarios/all', setUser, {
+    await busca('/usuarios', setUser, {
       headers: {
         Authorization: token,
       },
