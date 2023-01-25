@@ -60,7 +60,7 @@ function ListaUsuario() {
     }
   }, [token]);
 
-  async function getPost() {
+  async function getUsers() {
     await busca('/usuarios', setUser, {
       headers: {
         Authorization: token,
@@ -69,7 +69,7 @@ function ListaUsuario() {
   }
 
   useEffect(() => {
-    getPost();
+    getUsers();
   }, [user.length]);
   TabTitle('Lady Debug - Usuários');
 
